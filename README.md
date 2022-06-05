@@ -1,6 +1,6 @@
 # 🎄 Bilgilendirme 
 
-- Selam, proje 50 star 20 fork olduğunda dosyalar eklenecektir.
+- Selam, proje 50 star 20 fork olduğunda dosyalar doldurulacaktır.
 
 # 🪐 Özellikler 
 
