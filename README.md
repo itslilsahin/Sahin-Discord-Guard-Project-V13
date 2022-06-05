@@ -1,6 +1,6 @@
 # 🎄 Bilgilendirme 
 
-- Selam, proje 50 ⭐️(star) olduğunda dosyalar eklenecektir.
+- Selam, proje 50 ⭐️ olduğunda dosyalar eklenecektir.
 
 # 🪐 Özellikler 
 
