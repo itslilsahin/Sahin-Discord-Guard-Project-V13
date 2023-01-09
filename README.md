@@ -15,5 +15,5 @@
 
 # 📷 Fotoğraflar
 
-- X
+- XX
 
